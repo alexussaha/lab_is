@@ -75,3 +75,4 @@ section-titles: true
 ## {.standout}
 
 Спасибо за внимание!
+
